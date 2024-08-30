@@ -7,8 +7,8 @@ Observing the sales trend of Charlie Printing LTD., PART. from year 2006 to 2023
 and what could be improved to increase relationship with existing and incoming customer.
 
 ## North Star Metric
-Sales: Amount of stickers of orders in each years and all years 
-Customer Relationship: Strong relationships with the recurring customers
+* Sales: Amount of stickers of orders in each years and all years 
+* Customer Relationship: Strong relationships with the recurring customers
 
 ![Charlie_printing_Analysis_newdashboard](Charlie_printing_Analysis_newdashboard.jpg)
 
@@ -31,3 +31,7 @@ a regular customer
 * More marketing should also be carried out to advertised new customers 
 * The total sales have recently going through some decreased since the year 2022, but it is not a huge concern as the total sales are still in a good performance standing 
 
+## Technical Process 
+The technical process included:
+* Cleaning and preparing the data in **Excel**
+* Building a self-service dashboard for visualization in **PowerBI**
