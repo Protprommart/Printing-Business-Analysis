@@ -1,37 +1,36 @@
 # Printing Business Analysis
-
+**Charlie Printing LTD., PART.** is a company providing printing services, primarily generating revenue from industrial labeling product stickers. 
+As advancements in data analytics have grown, the company has been maintaining raw sales data for each client which the company want to extract business insights from the data.
 
 
 ## The objective
-Observing the sales trend of Charlie Printing LTD., PART. from year 2006 to 2023 in order to identify the customer sales trend 
-and what could be improved to increase relationship with existing and incoming customer.
+To analyze the sales trends of Charlie Printing LTD., PART. from 2006 to 2023, identifying customer sales patterns and opportunities for strengthening relationships with existing and new customers.
 
 ## North Star Metric
-* Sales: Amount of stickers of orders in each years and all years 
-* Customer Relationship: Strong relationships with the recurring customers
+* **Sales**: Quantity of sticker orders per year and overall.
+* **Customer** Relationship: Maintaining strong relationships with recurring customers.
 
 ![Charlie_printing_Analysis_newdashboard](Charlie_printing_Analysis_newdashboard.jpg)
 
 ## Summary of Insights 
 ### Sales
-* The overall general trend of sales has gone up, with the year 2021 as having the most sales
-* From year 2006 until 2013, the total sales are under 3 millions baht, with a slight decrease in sales in the year 2009
-* Top three customers that the company offer the service to by total sales value are SATYS (CIEE THAILAND prior), TEAMAEKRUA, and AIRCON MFG., LTD.
+- The overall sales trend has increased, with 2021 having the highest sales.
+- From 2006 to 2013, total sales were below 3 million baht, with a slight dip in 2009.
+- The top three customers by total sales value are SATYS (formerly CIEE THAILAND), TEAMAEKRUA, and AIRCON MFG., LTD.
   
 ### Customer Relationship
-* There are total of 15 customers that regular order from the company, 11 of those customer still actively purchase our product in the last 3 years
-* 2 new customers that recently order with the company are Delloyx and RED STAR 5 CO.,LTD
-* 6 customers that had stopped purchase company's product in the last 3 years include HANA SEMECONDUCTOR, PDI TRADING CO.,LTD, DERLITE CO.,LTD., PS SCREEN CO.,LTD., and SIAM ANGLO CO., LTD, WORK RITE CO.,LTD.
+- There are a total of 15 customers who regularly order from the company; 11 of these customers have actively purchased from us in the last three years.
+- Two new customers recently placed orders: Delloyx and RED STAR 5 CO., LTD.
+- Six customers have ceased purchasing from the company in the past three years: HANA SEMICONDUCTOR, PDI TRADING CO., LTD, DERLITE CO., LTD., PS SCREEN CO., LTD., SIAM ANGLO CO., LTD, and WORK RITE CO., LTD.
 
 
 ## Recommendation and Next steps
-* The relationship with the main top customers are still considered to be consistent, but there are more customers who stop order compared to new customer who recently became 
-a regular customer
-* There is a need to increase promotion for old customers who haven't been working with the company to be interested in ordering from us again
-* More marketing should also be carried out to advertised new customers 
-* The total sales have recently going through some decreased since the year 2022, but it is not a huge concern as the total sales are still in a good performance standing 
+- Relationships with the top customers remain stable, but more customers have stopped ordering compared to the number of new regular customers.
+- Increase promotions targeting former customers to re-engage them with our offerings.
+- Enhance marketing efforts to attract new customers.
+- While there has been a slight decline in total sales since 2022, it is not a major concern as overall performance remains strong.
 
 ## Technical Process 
 The technical process included:
-* Cleaning and preparing the data in **Excel**
-* Building a self-service dashboard for visualization in **PowerBI**
+- Cleaning and preparing the data in **Excel**
+- Building a self-service dashboard for visualization in **PowerBI**
