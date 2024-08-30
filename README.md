@@ -10,6 +10,8 @@ and what could be improved to increase relationship with existing and incoming c
 Sales: Amount of stickers of orders in each years and all years 
 Customer Relationship: Strong relationships with the recurring customers
 
+![Charlie_printing_Analysis_newdashboard](Charlie_printing_Analysis_newdashboard.jpg)
+
 ## Summary of Insights 
 ### Sales
 * The overall general trend of sales has gone up, with the year 2021 as having the most sales
